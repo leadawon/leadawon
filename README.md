@@ -143,7 +143,7 @@ Here are some ideas to get you started:
 
 </p>
 </div>
-
+<!--
 <h3 align="center">🌈 Pinned Repositories 🌈</h3>
 
 <div align = "center">
@@ -162,6 +162,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leadawon&repo=machine_reading_comprehension_kor)](https://github.com/leadawon/machine_reading_comprehension_kor)
 
 </div>
+-->
 
 <div align = "center">
 
