@@ -59,16 +59,17 @@ Here are some ideas to get you started:
   -->
 </p>
     
+<!--
 <h3 align="center">📺 Front Tech Stack 📺</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap3&logoColor=white"/></a>&nbsp
-  <!--
+
   <img src="https://img.shields.io/badge/ejs-00599C?style=fla&logo=AzurePipelines&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML-00599C?style=flat&logo=html5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Flutter-ffb13b?style=flat&logo=Flutter&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-005571?style=flat&logo=React&logoColor=white"/></a>&nbsp
-  -->
 </p>
+-->
     
 <h3 align="center">🛠 Tools 🛠</h3>
 <p align="center">
