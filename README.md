@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 <h3 align="center">🍳 Tech Stack 🍳</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a>&nbsp
 </p>
 
 <!--
