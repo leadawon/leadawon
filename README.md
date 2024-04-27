@@ -23,16 +23,16 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!%20🥳&fontSize=50&animation=twinkling)
 -->
 
-<h2 align="center"> Hi👋, I'm Dawon!🤗</h2>
-<h3 align="center">I'm a student who dreams of becoming AI engineer.</h3>
-<p align="center">
+<h2> Hi👋, I'm Dawon!🤗</h2>
+<h3>I'm a student who dreams of becoming AI engineer.</h3>
+<p>
   I believe in the strength of communication and collaboration<br/>
   hope the work I do bring good to the world<br/><br/>
   🇰🇷
 </p>
 
-<h3 align="center">🍳 Tech Stack 🍳</h3>
-<p align="center">
+<h3>🍳 Tech Stack 🍳</h3>
+<p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a>&nbsp 
 </p>
 
@@ -40,8 +40,9 @@ Here are some ideas to get you started:
 <h3 align="center">💽 DataBase Tech Stack 💽</h3>
 -->
 
-<p align="center">
+
 <!--
+<p>
   <img src="https://img.shields.io/badge/MySql-E6B91E?style=flat&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Maria-00599C?style=flat&logo=mariadb&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MongoDB-3766AB?style=flat&logo=mongodb&logoColor=white"/></a>&nbsp
@@ -51,17 +52,18 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/Python-005571?style=flat&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=Jupyter&logoColor=white"/></a>&nbsp
+  </p>
 -->
-</p>
+
 
 <!--
 <h3 align="center">📎 Back Tech Stack 📎</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a>&nbsp
-  <!--
   <img src="https://img.shields.io/badge/aws-333664?style=flat&logo=amazon-aws&logoColor=white"/></a>&nbsp
-  -->
+
 </p>
+  -->
 
 
 <!--
@@ -87,8 +89,8 @@ Here are some ideas to get you started:
 </p>
 -->
 
-<h3 align="center"> 🌈 My SMS 🌈 </h3>
-<p align="center">
+<h3> 🌈 My SMS 🌈 </h3>
+<p>
 <!--
   <a href="https://velog.io/@easyhwan"><img src="https://img.shields.io/badge/Blog-11B48A?         style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@easyhwan"/></a>&nbsp
 -->
@@ -96,6 +98,36 @@ Here are some ideas to get you started:
   <a href="mailto:dawon337@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=easyhwan97@gmail.com"/></a>
 
 </p>
+
+
+<h3>💡 Projects 💡</h3>
+<p>
+  <ul>
+    <li><i>2022-12-30</i> - text_classification_yelp(NLP, Classification) <a href="https://github.com/leadawon/text_classification_yelp">GitHub</a></li>
+    <li><i>2023-01-16</i> - machine_reading_comprehension_kor(NLP, QA) <a href="https://github.com/leadawon/machine_reading_comprehension_kor">GitHub</a></li>
+    <li><i>2024-02-15</i> - jeju dialect translator(NLP, Translation) <a href="https://github.com/leadawon/2023-1-OSSP2-AntiGPT-9">GitHub</a></li>
+    <li><i>2023-05-16</i> - gpt2-dialogue-generation-pytorch(NLP, Generation, Reasearch) <a href="https://github.com/leadawon/gpt2-dialogue-generation-pytorch">GitHub</a></li>
+    <li><i>2024-01-05</i> - ER_SENTINEL_CtrlCV(Backend, Sprint Boot) <a href="https://github.com/leadawon/ER_SENTINEL_CtrlCV">GitHub</a></li>
+    <li><i>2023-08-30</i> - building_segmentation_dgdr(CV, Semantic Segmentation) <a href="https://github.com/leadawon/building_segmentation_dgdr">GitHub</a></li>
+    <li><i>2024-02-26</i> - 2024-SolutionChallenge-sMiLe(Frontend, Flutter, Gemini) <a href="https://github.com/GDSC-DGU/2024-SolutionChallenge-sMiLe">GitHub</a></li>
+
+  </ul>
+</p>
+
+
+<!--
+<h3 align="center">🌟 Extracurricular Activities 🌟</h3>
+<p align="center">
+  <ul>
+    <li><i>2023-03 to Present</i> - DAVINCI - Position/Role <a href="https://www.clubwebsite1.com">Website</a></li>
+    <li><i>2022-06 to 2022-08</i> - mllab intern - Company Name <a href="https://www.companywebsite2.com">Website</a></li>
+    <li><i>2021-09 to 2022-02</i> - gdsc - Organization <a href="https://www.volunteerwebsite3.com">Website</a></li>
+  </ul>
+</p>
+-->
+
+
+
 
 <!--
 <h3 align="center">💡 My Most Used Languages 💡</h3>
@@ -140,8 +172,6 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center">
-<p align="center">
 
 
 <!-- Blog View Count -->
@@ -168,7 +198,7 @@ Here are some ideas to get you started:
 -->
 
 
-</div>
+
 <!--
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 -->
