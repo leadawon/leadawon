@@ -120,7 +120,7 @@ Here are some ideas to get you started:
 <p>
   <ul>
     <li><i>2019-03 to Present</i> - Hansori (the traditional Korean music club at Dongguk University)  <a href="https://www.instagram.com/hansori_dongguk?igsh=MW5jeWNmNXNtdGsxMg==">Instagram</a></li>
-    <li><i>2019-11 to Present</i> - Davinci (Programs under the Innovation Center for Engineering Education at Dongguk University)  <a href="https://www.facebook.com/dgudavinci/">FaceBook Page</a></li>
+    <li><i>2019-11 to Present</i> - Davinci (Programs under the Innovation Center for Engineering Education at Dongguk University)  <a href="https://www.facebook.com/dgudavinci/">FaceBook</a></li>
     <li><i>2023-03 to Present</i> - Lab Intern (Machine Learning Lab at Dongguk University) <a href="https://www.ml.dongguk.edu/home">Website</a></li>
     <li><i>2023-09 to Present</i> - GDSC (Google Developer Student Clubs at Dongguk University) <a href="https://gdsc.community.dev/dongguk-university-seoul-south-korea/">Community</a></li>
   </ul>
