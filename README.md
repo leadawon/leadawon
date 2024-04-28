@@ -107,24 +107,25 @@ Here are some ideas to get you started:
     <li><i>2023-01-16</i> - machine_reading_comprehension_kor(NLP, QA) <a href="https://github.com/leadawon/machine_reading_comprehension_kor">GitHub</a></li>
     <li><i>2024-02-15</i> - jeju dialect translator(NLP, Translation) <a href="https://github.com/leadawon/2023-1-OSSP2-AntiGPT-9">GitHub</a></li>
     <li><i>2023-05-16</i> - gpt2-dialogue-generation-pytorch(NLP, Generation, Reasearch) <a href="https://github.com/leadawon/gpt2-dialogue-generation-pytorch">GitHub</a> <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488165&nodeId=NODE11488165&medaTypeCode=185005&isPDFSizeAllowed=true&locale=ko&articleTitle=%EB%8C%80%ED%99%94+%EC%9A%94%EC%95%BD%EC%9D%84+%EC%9D%B4%EC%9A%A9%ED%95%9C+%EC%9D%91%EB%8B%B5+%EC%83%9D%EC%84%B1+%EB%AA%A8%EB%8D%B8%EC%97%90+%EA%B4%80%ED%95%9C+%EC%97%B0%EA%B5%AC&articleTitleEn=A+Study+on+Response+Generation+Using+Dialogue+Summary&language=ko_KR&hasTopBanner=true">Paper</a></li>
-    <li><i>2024-01-05</i> - ER_SENTINEL_CtrlCV(Backend, Sprint Boot) <a href="https://github.com/leadawon/ER_SENTINEL_CtrlCV">GitHub</a></li>
-    <li><i>2023-08-30</i> - building_segmentation_dgdr(CV, Semantic Segmentation) <a href="https://github.com/leadawon/building_segmentation_dgdr">GitHub</a></li>
+    <li><i>2024-01-05</i> - ER_SENTINEL_CtrlCV(Backend, Spring Boot) <a href="https://github.com/leadawon/ER_SENTINEL_CtrlCV">GitHub</a></li>
+    <li><i>2023-08-30</i> - building_segmentation_dgdr(CV, Semantic Segmentation, 4th Award) <a href="https://github.com/leadawon/building_segmentation_dgdr">GitHub</a></li>
     <li><i>2024-02-26</i> - 2024-SolutionChallenge-sMiLe(Frontend, Flutter, Gemini) <a href="https://github.com/GDSC-DGU/2024-SolutionChallenge-sMiLe">GitHub</a></li>
 
   </ul>
 </p>
 
 
-<!--
-<h3 align="center">🌟 Extracurricular Activities 🌟</h3>
-<p align="center">
+
+<h3>🌟 Extracurricular Activities 🌟</h3>
+<p>
   <ul>
-    <li><i>2023-03 to Present</i> - DAVINCI - Position/Role <a href="https://www.clubwebsite1.com">Website</a></li>
-    <li><i>2022-06 to 2022-08</i> - mllab intern - Company Name <a href="https://www.companywebsite2.com">Website</a></li>
-    <li><i>2021-09 to 2022-02</i> - gdsc - Organization <a href="https://www.volunteerwebsite3.com">Website</a></li>
+    <li><i>2019-03 to Present</i> - Hansori (the traditional Korean music club at Dongguk University)  <a href="https://www.instagram.com/hansori_dongguk?igsh=MW5jeWNmNXNtdGsxMg==">Instagram</a></li>
+    <li><i>2019-11 to Present</i> - Davinci (Programs under the Innovation Center for Engineering Education at Dongguk University)  <a href="https://www.facebook.com/dgudavinci/">FaceBook Page</a></li>
+    <li><i>2023-03 to Present</i> - Lab Intern (Machine Learning Lab at Dongguk University) <a href="https://www.ml.dongguk.edu/home">Website</a></li>
+    <li><i>2023-09 to Present</i> - GDSC (Google Developer Student Clubs at Dongguk University) <a href="https://gdsc.community.dev/dongguk-university-seoul-south-korea/">Community</a></li>
   </ul>
 </p>
--->
+
 
 
 
