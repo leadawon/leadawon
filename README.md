@@ -126,7 +126,15 @@ Here are some ideas to get you started:
   </ul>
 </p>
 
-
+<h3>🚀 Short-Term Training 🚀</h3>
+<p>
+  <ul>
+    <li><i>2022-06 to 2022-09</i> - 군 장병 맞춤형 온라인 AI·SW 역량 강화 교육 <a href="https://blog.kakaocdn.net/dn/b3NYVC/btsG3BjXiS4/6EfOW66dts1CdmOgkAQtk1/military_elice.pdf?attach=1&knm=tfile.pdf">Certificate</a></li>
+    <li><i>2022-11</i> - Google Cloud Fundamentals : Big data and ML <a href="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F4o2KU%2FbtsG0drkp0U%2FaInbMkjuKTv5xdFBGV7QO1%2Fimg.jpg">Certificate</a></li>
+    <li><i>2024-01 to 2024-02</i> - LG Aimers/Data Intelligence (Platform) <a href="https://blog.kakaocdn.net/dn/dj8YU2/btsG3BjXhts/S3yBVvYsDJaCUAvK7kXQEk/LG%20AImers.pdf?attach=1&knm=tfile.pdf">Certificate</a></li>
+    <li><i>2023-12 to 2024-01</i> - SKT AI 커리큘럼 2023 <a href="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FciTxkt%2FbtsG4Tj1cnr%2FF4kufiTzlckkJ4FJRTaEf1%2Fimg.png">Certificate</a></li>
+  </ul>
+</p>
 
 
 
