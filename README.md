@@ -109,7 +109,7 @@ Here are some ideas to get you started:
     <li><i>2023-05-16</i> - gpt2-dialogue-generation-pytorch(NLP, Generation, Reasearch) <a href="https://github.com/leadawon/gpt2-dialogue-generation-pytorch">GitHub</a> <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488165&nodeId=NODE11488165&medaTypeCode=185005&isPDFSizeAllowed=true&locale=ko&articleTitle=%EB%8C%80%ED%99%94+%EC%9A%94%EC%95%BD%EC%9D%84+%EC%9D%B4%EC%9A%A9%ED%95%9C+%EC%9D%91%EB%8B%B5+%EC%83%9D%EC%84%B1+%EB%AA%A8%EB%8D%B8%EC%97%90+%EA%B4%80%ED%95%9C+%EC%97%B0%EA%B5%AC&articleTitleEn=A+Study+on+Response+Generation+Using+Dialogue+Summary&language=ko_KR&hasTopBanner=true">Paper</a></li>
     <li><i>2024-01-05</i> - ER_SENTINEL_CtrlCV(Backend, Spring Boot) <a href="https://github.com/leadawon/ER_SENTINEL_CtrlCV">GitHub</a></li>
     <li><i>2023-08-30</i> - building_segmentation_dgdr(CV, Semantic Segmentation, 4th Award) <a href="https://github.com/leadawon/building_segmentation_dgdr">GitHub</a></li>
-    <li><i>2024-02-26</i> - 2024-SolutionChallenge-sMiLe(Frontend, Flutter, Gemini) <a href="https://github.com/GDSC-DGU/2024-SolutionChallenge-sMiLe">GitHub</a></li>
+    <li><i>2024-02-26</i> - 2024-SolutionChallenge-sMiLe(Frontend, Flutter, Gemini) <a href="https://github.com/GDSC-DGU/2024-SolutionChallenge-sMiLe">GitHub</a></li> <a href="https://youtu.be/tfJuX_jrX2g?si=HlXxk2-HbGBEKBMi">Youtube</a></li>
 
   </ul>
 </p>
