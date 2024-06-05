@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 <p>
   I believe in the strength of communication and collaboration<br/>
   hope the work I do bring good to the world<br/><br/>
-  🇰🇷
+  
+  <a href="https://github.com/leadawon/leadawon/blob/main/Awesome_CV.pdf">CV</a></li>
 </p>
 
 <h3>🍳 Tech Stack 🍳</h3>
