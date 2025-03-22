@@ -1,16 +1,17 @@
 <h2> Hi👋, I'm Dawon!🤗</h2>
-<h3>I'm a student who dreams of becoming an AI engineer.</h3>
+<h3>Dreaming of illuminating the world as an AI researcher</h3>
 <p>
   I believe in the strength of communication and collaboration<br/>
   hope the work I do brings good to the world<br/><br/>
   
-  <a href="https://github.com/leadawon/leadawon/blob/main/Awesome_CV.pdf">View my CV</a></li>
+  
 </p>
 
 <!--
 <h3>🍳 Tech Stack 🍳</h3>
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a>&nbsp 
+  <a href="https://github.com/leadawon/leadawon/blob/main/Awesome_CV.pdf">View my CV</a></li>
 </p>
 
 <h3>🌈 My Social Media 🌈</h3>
